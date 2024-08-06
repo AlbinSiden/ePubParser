@@ -14,6 +14,7 @@
 ## Installation
 
 To use `ePubParser` in your project, you need to include `JSZip` and your `ePubParser` script in your project. If you're using a module bundler like Webpack or Rollup, you can install `JSZip` via npm or yarn and import `ePubParser` as follows:
+```
 
 ```bash
 npm install jszip
@@ -111,4 +112,3 @@ If you want to contribute to `ePubParser`, please fork the repository and submit
 
 - [JSZip](https://github.com/Stuk/jszip) for handling ePub files.
 - [DOMParser](https://developer.mozilla.org/en-US/docs/Web/API/DOMParser) for parsing XML and HTML.
-```
