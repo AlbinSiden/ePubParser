@@ -1,5 +1,3 @@
-Certainly! Here is the entire README content as a string:
-
 ```markdown
 # ePubParser
 
